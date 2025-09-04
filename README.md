@@ -31,13 +31,13 @@ You need to have [Node.js](https://nodejs.org/) and `npm` (Node Package Manager)
 1.  **Clone the repository** to your local machine:
 
     ```bash
-    git clone [https://github.com/your-username/react-quiz-app.git](https://github.com/your-username/react-quiz-app.git)
+    git clone [https://github.com/harsh-2031/Quiz-App.git](https://github.com/harsh-2031/Quiz-App.git)
     ```
 
 2.  **Navigate into the project directory**:
 
     ```bash
-    cd react-quiz-app
+    cd Quiz-App
     ```
 
 3.  **Install the necessary dependencies**:
@@ -48,7 +48,7 @@ You need to have [Node.js](https://nodejs.org/) and `npm` (Node Package Manager)
 
 4.  **Start the development server**:
     ```bash
-    npm start
+    npm run dev
     ```
 
-The application should now be running on `http://localhost:3000` in your browser.
+The application should now be running on `http://localhost:5173` in your browser.
