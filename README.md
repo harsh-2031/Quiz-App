@@ -1,12 +1,54 @@
-# React + Vite
+# 🧠 QuizApp - React Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun, interactive quiz application built with React and Tailwind CSS. Test your knowledge across various difficulty levels!
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Difficulty Selection**: Choose from Easy, Medium, or Hard levels.
+- **Timed Questions**: Each question has a 15-second timer to keep you on your toes.
+- **Instant Feedback**: See if your answer was correct immediately.
+- **Progress Tracking**: A progress bar shows you how far you are in the quiz.
+- **Score Results**: View your final score and the high score for that difficulty.
+- **Answer Review**: Go back and review your answers after the quiz is complete.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**: A JavaScript library for building user interfaces.
+- **React Router**: For handling navigation between different screens.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **React Icons**: For including popular icons.
+
+## 🚀 Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+You need to have [Node.js](https://nodejs.org/) and `npm` (Node Package Manager) installed on your computer.
+
+### Installation & Setup
+
+1.  **Clone the repository** to your local machine:
+
+    ```bash
+    git clone [https://github.com/your-username/react-quiz-app.git](https://github.com/your-username/react-quiz-app.git)
+    ```
+
+2.  **Navigate into the project directory**:
+
+    ```bash
+    cd react-quiz-app
+    ```
+
+3.  **Install the necessary dependencies**:
+
+    ```bash
+    npm install
+    ```
+
+4.  **Start the development server**:
+    ```bash
+    npm start
+    ```
+
+The application should now be running on `http://localhost:3000` in your browser.
