@@ -1,0 +1,151 @@
+{
+  "easy": [
+    {
+      "id": 1,
+      "question": "What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Print Unit",
+        "Control Processing Utility"
+      ],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "id": 2,
+      "question": "Which data structure uses FIFO (First In, First Out)?",
+      "options": ["Stack", "Queue", "Tree", "Graph"],
+      "answer": "Queue"
+    },
+    {
+      "id": 3,
+      "question": "Which number system is used by computers?",
+      "options": ["Decimal", "Binary", "Octal", "Hexadecimal"],
+      "answer": "Binary"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT an operating system?",
+      "options": ["Linux", "Windows", "Python", "macOS"],
+      "answer": "Python"
+    },
+    {
+      "id": 5,
+      "question": "What does RAM stand for?",
+      "options": [
+        "Read Access Memory",
+        "Random Access Memory",
+        "Rapid Action Memory",
+        "Run All Memory"
+      ],
+      "answer": "Random Access Memory"
+    }
+  ],
+  "medium": [
+    {
+      "id": 1,
+      "question": "Which sorting algorithm has the best average case complexity?",
+      "options": [
+        "Bubble Sort",
+        "Merge Sort",
+        "Insertion Sort",
+        "Selection Sort"
+      ],
+      "answer": "Merge Sort"
+    },
+    {
+      "id": 2,
+      "question": "What is the time complexity of binary search?",
+      "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+      "answer": "O(log n)"
+    },
+    {
+      "id": 3,
+      "question": "Which protocol is used to send emails?",
+      "options": ["HTTP", "SMTP", "FTP", "SNMP"],
+      "answer": "SMTP"
+    },
+    {
+      "id": 4,
+      "question": "Which of these is a NoSQL database?",
+      "options": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+      "answer": "MongoDB"
+    },
+    {
+      "id": 5,
+      "question": "Which layer of the OSI model does IP belong to?",
+      "options": [
+        "Application Layer",
+        "Transport Layer",
+        "Network Layer",
+        "Data Link Layer"
+      ],
+      "answer": "Network Layer"
+    },
+    {
+      "id": 6,
+      "question": "In C, what is the size of an int (on most 32-bit systems)?",
+      "options": ["2 bytes", "4 bytes", "8 bytes", "Depends on compiler"],
+      "answer": "4 bytes"
+    }
+  ],
+  "hard": [
+    {
+      "id": 1,
+      "question": "Which algorithm is used in public key cryptography?",
+      "options": ["RSA", "Dijkstra", "Prim’s", "Kruskal’s"],
+      "answer": "RSA"
+    },
+    {
+      "id": 2,
+      "question": "What is the worst-case time complexity of QuickSort?",
+      "options": ["O(n log n)", "O(n)", "O(log n)", "O(n^2)"],
+      "answer": "O(n^2)"
+    },
+    {
+      "id": 3,
+      "question": "Which scheduling algorithm may cause starvation?",
+      "options": [
+        "Round Robin",
+        "First Come First Serve",
+        "Shortest Job Next",
+        "Priority Scheduling"
+      ],
+      "answer": "Priority Scheduling"
+    },
+    {
+      "id": 4,
+      "question": "In databases, what does ACID stand for?",
+      "options": [
+        "Atomicity, Consistency, Isolation, Durability",
+        "Accuracy, Control, Integrity, Durability",
+        "Access, Consistency, Integrity, Data",
+        "Atomicity, Clarity, Integration, Durability"
+      ],
+      "answer": "Atomicity, Consistency, Isolation, Durability"
+    },
+    {
+      "id": 5,
+      "question": "Which of these is a non-volatile memory?",
+      "options": ["RAM", "Cache", "ROM", "Registers"],
+      "answer": "ROM"
+    },
+    {
+      "id": 6,
+      "question": "Which algorithm is used for shortest path in a graph?",
+      "options": [
+        "Prim’s Algorithm",
+        "Kruskal’s Algorithm",
+        "Dijkstra’s Algorithm",
+        "Ford-Fulkerson Algorithm"
+      ],
+      "answer": "Dijkstra’s Algorithm"
+    },
+    {
+      "id": 7,
+      "question": "Which of these is a functional programming language?",
+      "options": ["C", "Java", "Haskell", "C++"],
+      "answer": "Haskell"
+    }
+  ]
+}
